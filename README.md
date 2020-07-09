@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--
-**diegomcarvalho/diegomcarvalho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**diegomcarvalho/diegomcarvalho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 Diego Carvalho is a tenured professor at the Department of Production Engineering (DEPRO) of the Federal Centre for Technological Education of Rio de Janeiro (CEFET/RJ). He got his undergraduate degree in Production Engineering (POLI of UFRJ), and he holds a Doctor's Degree in Systems Engineering and Computer Science (PESC/COPPE). Besides, he is the head of the Graduate Programme of Production and Systems Engineering of CEFET/RJ.
 
@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on COVID-19 models, AI for process mining, public transport polution simulation
 - 🌱 I’m currently learning non-Normal statistics and Julia
 - 😄 Pronouns: he/him, please correct me if I use the wrong one with you. I do respect you.
--->
+
