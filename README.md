@@ -16,6 +16,6 @@ His professional experience covers diverse areas such as object-oriented design,
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on COVID-19 models, AI for process mining, public transport polution simulation
-- 🌱 I’m currently learning non-Normal statistics and Julia
+- 🌱 I’m currently learning non-Normal statistics, non-linear least squares, epidemics, python and Julia
 - 😄 Pronouns: he/him, please correct me if I use the wrong one with you. I do respect you.
 
