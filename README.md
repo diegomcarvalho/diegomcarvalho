@@ -3,7 +3,7 @@
 <!--
 **diegomcarvalho/diegomcarvalho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-Diego Carvalho is a tenured professor at the Department of Production Engineering (DEPRO) of the Federal Centre for Technological Education of Rio de Janeiro (CEFET/RJ). He got his undergraduate degree in Production Engineering (POLI of UFRJ), and he holds a Doctor's Degree in Systems Engineering and Computer Science (PESC/COPPE). Besides, he is the head of the Graduate Programme of Production and Systems Engineering of CEFET/RJ.
+Diego Carvalho is a associate professor at the Department of Production Engineering (DEPRO) of the Federal Centre for Technological Education of Rio de Janeiro (CEFET/RJ). He got his undergraduate degree in Production Engineering (POLI of UFRJ), and he holds a Doctor's Degree in Systems Engineering and Computer Science (PESC/COPPE). Besides, he is the head of the Graduate Programme of Production and Systems Engineering of CEFET/RJ.
 
 He worked at the DELPHI Experiment (CERN) as a computer scientist expert in the Complex Distributed Real-Time Data Acquisition & Control Systems and acted as a project manager in several object-oriented software development projects sponsored by the National Council for Scientific and Technological Development (CNPq/Brazil).
 
